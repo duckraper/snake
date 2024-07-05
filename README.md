@@ -1,7 +1,5 @@
 # Snake
 
-## Description
-
 This small and minimalist project is from a few years ago, when I was learning Python. I decided that the most fun way to learn programming was by making games, or at least replicating some of the classics. Among them, the first one I managed to complete in my own way was this one, and besides the messy code and a lot of missing possible optimizations, i'm really proud of it <3.
 
 ### How to run
